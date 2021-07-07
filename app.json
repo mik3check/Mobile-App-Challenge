@@ -3,7 +3,7 @@
     "name": "Challenge",
     "slug": "Challenge",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "e",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
